@@ -1,0 +1,14 @@
+credentials.txt
+repository.txt
+.dailycodeagent.lock
+.dailycodeagent-cache/
+daily/
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
