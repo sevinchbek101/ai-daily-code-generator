@@ -56,7 +56,7 @@ python --version
 ### O‘rnatish va sozlash
 
 ```powershell
-git clone https://github.com/USERNAME/daily-code-agent-gemini.git
+git clone https://github.com/sevinchbek101/ai-daily-code-generator.git
 cd daily-code-agent-gemini
 Copy-Item credentials.example.txt credentials.txt
 ```
@@ -118,7 +118,7 @@ DailyCodeAgent ежедневно создаёт небольшие учебны
 ### Установка
 
 ```powershell
-git clone https://github.com/USERNAME/daily-code-agent-gemini.git
+git clone https://github.com/sevinchbek101/ai-daily-code-generator.git
 cd daily-code-agent-gemini
 Copy-Item credentials.example.txt credentials.txt
 ```
@@ -178,7 +178,7 @@ You need Windows 10/11, Python 3.10+, internet access, a GitHub account, a perso
 ### Installation
 
 ```powershell
-git clone https://github.com/USERNAME/daily-code-agent-gemini.git
+git clone https://github.com/sevinchbek101/ai-daily-code-generator.git
 cd daily-code-agent-gemini
 Copy-Item credentials.example.txt credentials.txt
 ```
